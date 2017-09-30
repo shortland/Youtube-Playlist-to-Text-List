@@ -1,0 +1,2409 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/VP4wk4kBSc-cVBZhve--e5RcCOk\"",
+ "nextPageToken": "CGQQAA",
+ "prevPageToken": "CDIQAQ",
+ "pageInfo": {
+  "totalResults": 176,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/LxDkC73TcHy1bG2M29HUoqLn51U\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5GN0EwRkMxQTJGMTFCNDc1",
+   "snippet": {
+    "publishedAt": "2017-09-20T02:10:52.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Foster The People - Call It What You Want",
+    "description": "Foster the People's official music video for 'Call It What You Want'. Click to listen to Foster the People on Spotify: http://smarturl.it/FtPSpotify?IQid=FtPCIWYW\n\nAs featured on Torches. Click to buy the track or album via iTunes: http://smarturl.it/FtPToriTunes?IQid=FtPCIWYW\nGoogle Play: http://smarturl.it/FtPCIWYLplay?IQid=FtPCIWYW\nAmazon: http://smarturl.it/FtPTorAmz?IQid=FtPCIWYW\n\nMore from Foster the People\nHoudini: https://youtu.be/_GMQLjzVGfw\nPumped Up Kicks: https://youtu.be/SDTZ7iX4vTQ\nHelena Beat: https://youtu.be/ABzh6hTYpb8\n\nMore great Alternative 00s videos here: http://smarturl.it/Alternative00?IQid=FtPCIWYW\n\nFollow Foster the People\nWebsite: http://www.fosterthepeople.com/\nFacebook: https://www.facebook.com/fosterthepeople\nTwitter: https://twitter.com/fosterthepeople\nInstagram: https://instagram.com/fosterthepeople/\n\nSubscribe to Foster the People on YouTube: http://smarturl.it/FtPSub?IQid=FtPCIWYW\n\n---------\n\nLyrics:\n\nCall it what you want \nCall it what you want\nI said just call it what you want \nCall it what you want \n\nYeah we're locked up in ideas \nWe like to label everything \nWell I'm just gonna do here what I gotta do here \n'Cause I gotta keep myself free \nYou're ducking and moving just to hide yourbruises from all your enemies \nAnd I'm in the crossfire dodging bullets from your expectancies \n\nWe've got nothing to lose \nYou better run and hide \nYeah you've crossed the line \nI've got a knife behind my back (just sayin') \nWe've got nothing to prove \nYour social guides give you swollen eyes \nBut what I've got can't be bought so you can just \n\nCall it what you want \nCall it what you want \nI said just call it what you want \nCall it what you want \n\nYou've taken your words and you take your judgments \nAnd stick them onto everything \nIf it don't conform to what you were born into, \nThen you run the other way \nYou say, \"now what's your style and who do you listen to?\" who cares? \nWell that rat race ladder-climbing fake-face smile's got nothing on me\n\nWe've got nothing to lose \nYou better run and hide \nYeah you've crossed the line \nI've got a knife behind my back (just sayin') \nWe've got nothing to prove \nYour social guides give you swollen eyes \nBut what I've got can't be boughtso you can just \n\nCall it what you want \nCall it what you want \nI said just call it what you want \nCall it what you want",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1prhCWO_518/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1prhCWO_518/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1prhCWO_518/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1prhCWO_518/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1prhCWO_518/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 50,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1prhCWO_518"
+    }
+   },
+   "contentDetails": {
+    "videoId": "1prhCWO_518",
+    "videoPublishedAt": "2011-11-02T01:00:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/5iNiTesiVZS0wO1PWMhe9PMILws\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby43RjdBQTMwNUUwRTA1QkE3",
+   "snippet": {
+    "publishedAt": "2017-09-20T01:52:24.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Deleted video",
+    "description": "This video is unavailable.",
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 51,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YHLAmU_d4zI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "YHLAmU_d4zI"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Kp07pWQ_Z8XN8JlsXPD_Memh0kw\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5CMDk1Q0MxREYyOTVEOTZF",
+   "snippet": {
+    "publishedAt": "2017-09-19T00:49:36.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Witt Lowry - Phone (feat. GJan)",
+    "description": "Featured on my new album \"I Could Not Plan This\" on iTunes, out now: https://itunes.apple.com/us/album/i-could-not-plan-this/id1276357629\n\nCOME SEE ME ON TOUR: http://www.wittlowrymusic.com/tour\n\nLISTEN ON SPOTIFY: https://open.spotify.com/album/4dR2U031e2XkziQH53khB9\n\nPURCHASE \"DREAMING WITH OUR EYES OPEN\" ON ITUNES, OUT NOW: https://itun.es/us/f84R9\n\n----------------------------------------\u00ad--------------------------------\n\nWitt Lowry:\n\nSPOTIFY: https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY\nFACEBOOK: https://www.facebook.com/WittLowry\nTWITTER: https://twitter.com/WittLowry\nINSTAGRAM: https://instagram.com/WittLowry\nSOUNDCLOUD: https://soundcloud.com/WittLowry\n\n----------------------------------------\u00ad--------------------------------\n\nGJan:\n\nSOUNDCLOUD: http://www.soundcloud.com/gjan\nFACEBOOK: http://www.facebook.com/GJanOfficial\nTWITTER: http://www.twitter.com/GJanMusic\n\n----------------------------------------\u00ad--------------------------------\n\nRokas Jansonas:\n\nSOUNDCLOUD: https://www.soundcloud.com/rokasjan\nINSTAGRAM: https://www.instagram.com/rokasjan\n\n----------------------------------------\u00ad--------------------------------\n\nMixed by Ty-Nitty: @prodbytynitty\n\n----------------------------------------\u00ad--------------------------------\n\nArt by @doyouknowliam\n\n----------------------------------------\u00ad--------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1Madlm7I0kc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1Madlm7I0kc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1Madlm7I0kc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1Madlm7I0kc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1Madlm7I0kc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 52,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1Madlm7I0kc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "1Madlm7I0kc",
+    "videoPublishedAt": "2017-09-19T00:39:51.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/PVv6neHSn29iP5DrLUaULDlQq24\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby44NzQ1OTI1OUFFM0NFRTc5",
+   "snippet": {
+    "publishedAt": "2017-09-18T17:26:52.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Witt Lowry - I Could Not Plan This (Full Album)",
+    "description": "Witt Lowry - I Could Not Plan This (Full Album) - this project from Witt is simply incredible. Enjoy!\n\nDownload/Stream \"I Could Not Plan This\":\nhttps://itunes.apple.com/us/album/i-could-not-plan-this/id1276357629\nhttps://open.spotify.com/album/4dR2U031e2XkziQH53khB9\n\nTracklist + Times:\n00:00  - I Could Not Plan This\n02:04 - Blood In The Water\n05:36  - Losing You (feat. Max) \n09:30 - Wishing Wells\n13:00 - Care Too Much\n16:13 - Phone (feat. Gjan) \n20:48 - Let Me Know (feat. Tori Solkowski) \n25:00 - Lie Lie Lie (feat. Chris Michaud)\n28:42 - Better for Me (feat. Deion Reverie)\n33:05 - Movies \n37:02 - I Know I Know \n41:10 - Forgot About Me\n45:52 - Numb\n49:51 - Lately (feat. Dia Frampton)\n54:14 - Last Letter \n\nArtist Social Networks:\nhttps://twitter.com/WittLowry\nhttps://www.facebook.com/WittLowry\nhttps://www.youtube.com/WittLowry\nhttps://soundcloud.com/WittLowry\n\nSupport Promoting Sounds:\nhttp://spoti.fi/2lPQjF0\nhttps://twitter.com/PromotingSounds\nhttps://www.facebook.com/PromotingSounds\nhttp://soundcloud.com/Promotedsounds\nhttp://instagram.com/promotingsounds\n\nPromoting Sounds is a curation channel with aims to display the best hip hop, rap and alternative music from underrated artists you may not have heard of and such talents as Logic, G-Eazy, Blackbear, KYLE, Chance The Rapper and more. Be sure to comment below what you think of the tunes - all ages welcome!\n\nWitt Lowry - I Could Not Plan This (Full Album)\nWitt Lowry - I Could Not Plan This (Full Album)\nWitt Lowry - I Could Not Plan This (Full Album)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/x5ahs0x72_0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/x5ahs0x72_0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/x5ahs0x72_0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/x5ahs0x72_0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/x5ahs0x72_0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 53,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "x5ahs0x72_0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "x5ahs0x72_0",
+    "videoPublishedAt": "2017-09-18T04:22:44.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/iBiTaFDccflPvb9EoKxNfVMgCgA\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5DODY2Qzc5Mzc1QkZEQ0NF",
+   "snippet": {
+    "publishedAt": "2017-09-18T17:20:21.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Witt Lowry - Like I Do (Official Music Video)",
+    "description": "FACEBOOK: http://www.facebook.com/WittLowry\nTWITTER: https://twitter.com/WittLowry\nSOUNDCLOUD: https://soundcloud.com/WittLowry\nSpread the word!\n\nITUNES: https://itunes.apple.com/us/artist/witt-lowry/id907600609\n\nDOWNLOAD \"LIKE I DO\" HERE: https://soundcloud.com/wittlowry/witty-like-i-do-prod-by-tido-vegas\n\nor \n\nhttps://www.audiomack.com/song/WittLowry/like-i-do-prod-by-tido-vegas\n\nDOWNLOAD KINDEST REGARDS HERE: http://www.datpiff.com/mixtapes-detail.php?id=555066\n\nShot and Edited by Mike Squires of Squires Entertainment SquiresEntertainment.com\n\nsong engineered and mixed by Ty-Nitty : @TyNitty_mdc\n\nBebe Rexha #icsday sample\nProd. By Tido Vegas\n\nEnjoy!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/plqFvp6nm9o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/plqFvp6nm9o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/plqFvp6nm9o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/plqFvp6nm9o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/plqFvp6nm9o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 54,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "plqFvp6nm9o"
+    }
+   },
+   "contentDetails": {
+    "videoId": "plqFvp6nm9o",
+    "videoPublishedAt": "2014-09-16T00:05:53.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/xFSoZihRzqEyPgWgAqTaW6Ax-zc\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby40MzEwNkU4RUE0MjhBRjg4",
+   "snippet": {
+    "publishedAt": "2017-09-18T16:09:00.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Sam Lachow - Wrong Man (ft. Ariana DeBoo & Dave B)",
+    "description": "Now on MusicHive!\nSubscribe! https://goo.gl/2tyCuk\nSoundrose: https://goo.gl/CEmmGW\n\nCheck Out The Artist:\nSam Lachow:\nhttps://twitter.com/SamLachow?lang=en\nhttps://soundcloud.com/samlachow\nhttps://www.facebook.com/samlachow/\nhttp://blog.samlachow.com/\n\nDave B:\nhttps://soundcloud.com/davebmusic\nhttp://akianamedbentley.com/\nhttps://twitter.com/davebspacedot\nhttp://davebspacedot.tumblr.com/\nhttp://instagram.com/davebspacedot\n\nNo copyright infringement intended. Video will be removed if requested by the copyright owner.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WzSZnNizbxo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WzSZnNizbxo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WzSZnNizbxo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WzSZnNizbxo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WzSZnNizbxo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 55,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WzSZnNizbxo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "WzSZnNizbxo",
+    "videoPublishedAt": "2016-04-12T14:40:25.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/tgisiQZBZ7RirK_5cm5ibEDeXg4\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby42RDgxQ0M2OUIwREZCNjZF",
+   "snippet": {
+    "publishedAt": "2017-09-17T21:22:47.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Spice Girls - Wannabe",
+    "description": "Listen to more from The Spice Girls: http://spicegirls.lnk.to/Essentials\nDiscover why Wannabe is the catchiest song ever here: http://www.udiscovermusic.com/news/catchiest-song-ever\n\nListen to more from the Spice Girls here: hhttp://playlists.udiscovermusic.com/playlist/spice-girls-best-of\n\nMusic video by Spice Girls performing Wannabe.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gJLIiF15wjQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gJLIiF15wjQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gJLIiF15wjQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gJLIiF15wjQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 56,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gJLIiF15wjQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "gJLIiF15wjQ",
+    "videoPublishedAt": "2009-03-07T07:00:12.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/TS_Jx5C9jpplnp8hWl-R1OoITpg\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby40ODU2MTBGM0M5MkIwQzU0",
+   "snippet": {
+    "publishedAt": "2017-09-17T21:15:53.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Hoobastank - The Reason",
+    "description": "Music video by Hoobastank performing The Reason. (C) 2003 The Island Def Jam Music Group",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fV4DiAyExN0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fV4DiAyExN0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fV4DiAyExN0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fV4DiAyExN0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fV4DiAyExN0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 57,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fV4DiAyExN0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "fV4DiAyExN0",
+    "videoPublishedAt": "2009-10-07T10:44:51.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/H9Os2tAOmL2tXCAxwew3WSS7RNs\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby44REI4QUZDRDI5MDc4Q0NF",
+   "snippet": {
+    "publishedAt": "2017-09-17T03:48:13.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Hans Zimmer - Interstellar - Main Theme (Piano Version) + Sheet Music",
+    "description": "Sheet Music: http://goo.gl/y4RnH3\nHans Zimmer - Interstellar - Main Theme\nPiano Version by Patrik Pietschmann\n\nHi, my name is Patrik Pietschmann, I'm a keyboard player, arranger and hobby programmer from Germany. Since I am a huge fan of Hans Zimmer, I did an arrangement of his Main Theme from the \"Interstellar\" soundtrack. In this video I have tried to combine my live piano playing with the visualization of the music material by programming my own \"Synthesia\"-like software.\n\nPlease subscribe to my channel if you like the video! :-)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4y33h81phKU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4y33h81phKU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4y33h81phKU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4y33h81phKU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4y33h81phKU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 58,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4y33h81phKU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "4y33h81phKU",
+    "videoPublishedAt": "2016-08-23T14:54:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/L7VuTh1kO-6P4mAcDm1sqA2rkDU\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5FQjcyRDZBMEMyNTY3OTdE",
+   "snippet": {
+    "publishedAt": "2017-09-17T03:12:33.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Future - Mask Off",
+    "description": "\"FUTURE\" available at:  iTunes: http://smarturl.it/FUTURE.iTunes\nApple Music: http://smarturl.it/FUTURE.AM\nSpotify: http://smarturl.it/FUTURE.Sptfy\nGoogle Play: http://smarturl.it/FUTURE.GP\nAmazon Digital: http://smarturl.it/FUTURE.Dig\nDeezer: http://smarturl.it/FUTURE.Dzr\nSoundcloud: http://smarturl.it/FUTURE.SC\nTidal: http://smarturl.it/FUTURE.Tidal\n\nhttps://www.futurefreebandz.com\nhttps://www.facebook.com/futureofficial\nhttps://www.twitter.com/1future\nhttps://www.instagram.com/future\nhttps://www.youtube.com/officialfuturevideos\nhttps://www.soundcloud.com/futureisnow\n\n(C) 2017 Epic Records, a division of Sony Music Entertainment with A1 / Freebandz",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xvZqHgFz51I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xvZqHgFz51I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xvZqHgFz51I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xvZqHgFz51I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/xvZqHgFz51I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 59,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xvZqHgFz51I"
+    }
+   },
+   "contentDetails": {
+    "videoId": "xvZqHgFz51I",
+    "videoPublishedAt": "2017-05-05T14:00:06.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/7KFK_JM9Po1vtHmHsSjH03zYrz0\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby4wMEMyQTBBOTUwNTM0OUFG",
+   "snippet": {
+    "publishedAt": "2017-09-17T02:54:54.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "A Boogie Wit Da Hoodie - Drowning (WATER) ft Kodak Black [Official Audio]",
+    "description": "A Boogie Wit Da Hoodie - Drowning feat. Kodak Black\n\nDownload/Stream \"Drowning feat. Kodak Black\": https://Atlantic.lnk.to/Drowning\n\nFollow A Boogie\nInstagram - https://www.instagram.com/ArtistHBTL/\nTwitter - http://twitter.com/ArtistHBTL\nFacebook - https://www.facebook.com/ArtistHBTL\nSpotify - https://open.spotify.com/artist/31W5E...\nSoundcloud - https://soundcloud.com/a-boogie-wit-d...\n\nFollow High Bridge\nFacebook: https://www.facebook.com/HighBridgeOfficial\nTwitter: https://twitter.com/Highbridgelabel\nInstagram: https://www.instagram.com/highbridgethelabel/\nSoundcloud: https://soundcloud.com/user-939666509",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rvaJ7QlhH0g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rvaJ7QlhH0g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rvaJ7QlhH0g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rvaJ7QlhH0g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rvaJ7QlhH0g/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 60,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rvaJ7QlhH0g"
+    }
+   },
+   "contentDetails": {
+    "videoId": "rvaJ7QlhH0g",
+    "videoPublishedAt": "2017-03-10T05:32:25.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/siRKrVAx14kUDoyvbkgySeRhfTs\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby44M0Q5MzQ0QTcwQzFDMjc5",
+   "snippet": {
+    "publishedAt": "2017-09-17T02:51:56.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "A-Boogie Wit Da Hoodie \"My Shit\" Prod. By D Stackz (Dir. By @BenjiFilmz)",
+    "description": "A Boogie Wit Da Hoodie - My Shit\nArtist Available Now\niTunes - http://smarturl.it/DownloadArtist\nSpotify - http://smarturl.it/StreamArist\nApple Music - http://smarturl.it/ArtistAM\nGoogle Play - http://smarturl.it/ArtistGP\nAmazon - http://smarturl.it/ArtistAZ\n\nFollow A Boogie\nInstagram - https://www.instagram.com/ArtistHBTL\nTwitter - https://twitter.com/ArtistHBTL\nFacebook - https://www.facebook.com/ArtistHBTL\nSoundcloud - https://soundcloud.com/a-boogie-wit-da-hoodie\nSpotify: https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I\n\nFollow High Bridge\nFacebook: http://www.facebook.com/HighBridgeOfficial/\nTwitter: https://twitter.com/Highbridgelabel\nInstagram: http://www.instagram.com/highbridgethelabel/\nSoundcloud: http://smarturl.it/HBSoundcloud\nSpotify: https://open.spotify.com/user/highbridgethelabel",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9cGpLc-G20E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9cGpLc-G20E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9cGpLc-G20E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9cGpLc-G20E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9cGpLc-G20E/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 61,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9cGpLc-G20E"
+    }
+   },
+   "contentDetails": {
+    "videoId": "9cGpLc-G20E",
+    "videoPublishedAt": "2016-03-26T00:20:47.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/1u1vSRUX4Kz-89Ne3Mkm3brdBDY\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5EN0U0NTk3NzIwMjUxN0M3",
+   "snippet": {
+    "publishedAt": "2017-09-16T01:36:47.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Eminem - The Monster (Explicit) ft. Rihanna",
+    "description": "Download Eminem's 'MMLP2' Album on iTunes now:http://smarturl.it/MMLP2\n\nMusic video by Eminem ft. Rihanna \"The Monster\" © 2013 Interscope",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EHkozMIXZ8w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EHkozMIXZ8w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EHkozMIXZ8w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EHkozMIXZ8w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/EHkozMIXZ8w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 62,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EHkozMIXZ8w"
+    }
+   },
+   "contentDetails": {
+    "videoId": "EHkozMIXZ8w",
+    "videoPublishedAt": "2013-12-17T00:50:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/g_L1GsyOwRdKEqtot-vPZWEw-EQ\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5BQzRBQzNEOTgzNTU2QkZB",
+   "snippet": {
+    "publishedAt": "2017-09-16T01:30:17.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Eminem - Love The Way You Lie ft. Rihanna",
+    "description": "Music video by Eminem performing Love The Way You Lie. © 2010 Aftermath Records\n#VEVOCertified on September 13, 2011. http://www.vevo.com/certified http://www.youtube.com/vevocertified\n\nhttp://www.vevo.com/watch/USUV71001543?utm_source=youtube&utm_medium=description&utm_campaign=ytd",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uelHwf8o7_U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uelHwf8o7_U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uelHwf8o7_U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uelHwf8o7_U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/uelHwf8o7_U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 63,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uelHwf8o7_U"
+    }
+   },
+   "contentDetails": {
+    "videoId": "uelHwf8o7_U",
+    "videoPublishedAt": "2010-08-05T19:09:46.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/91NwY17fnMeVmK3FNHLa2x4vbpY\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby4zNEMzQ0FDREY1MkE1RkQ1",
+   "snippet": {
+    "publishedAt": "2017-09-15T23:06:48.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "POWER (Explicit)",
+    "description": "Provided to YouTube by Universal Music Group North America\n\nPOWER (Explicit) · Kanye West\n\nMy Beautiful Dark Twisted Fantasy\n\n℗ 2010 Roc-A-Fella Records, LLC\n\nReleased on: 2010-01-01\n\nAuthor, Composer: Kanye West\nAuthor, Composer: L. Griffin\nAuthor, Composer: Andwele Gardner\nAuthor, Composer: Ken Lewis\nAuthor, Composer: Francois Bernheim\nAuthor, Composer: Jean Pierre Lang\nAuthor, Composer: Boris Bergman\nAuthor, Composer: Mike Dean\nAuthor, Composer: Jeff Bhasker\nAuthor, Composer: Robert Fripp\nAuthor, Composer: Michael Giles\nAuthor, Composer: Greg Lake\nAuthor, Composer: Ian McDonald\nAuthor, Composer: Peter Sinfield\n\nAuto-generated by YouTube.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nfef5WqC85A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nfef5WqC85A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nfef5WqC85A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nfef5WqC85A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nfef5WqC85A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 64,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nfef5WqC85A"
+    }
+   },
+   "contentDetails": {
+    "videoId": "nfef5WqC85A",
+    "videoPublishedAt": "2017-02-07T18:17:56.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/hpMxiqYsaGga2fKCnG8948pGUK4\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby45MEI3NjgzMTVFQkZGODYx",
+   "snippet": {
+    "publishedAt": "2017-09-15T22:12:59.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Runaway (Explicit)",
+    "description": "Provided to YouTube by Universal Music Group North America\n\nRunaway (Explicit) · Kanye West · Pusha T\n\nMy Beautiful Dark Twisted Fantasy\n\n℗ 2010 Roc-A-Fella Records, LLC\n\nReleased on: 2010-01-01\n\nFeaturing: Pusha T\nAuthor, Composer: Kanye West\nAuthor, Composer: Emile Haynie\nAuthor, Composer: Terrence Thornton\nAuthor, Composer: Jeff Bhasker\nAuthor, Composer: Mike Dean\nAuthor, Composer: John Roger Branch\nAuthor, Composer: Malik Jones\n\nAuto-generated by YouTube.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TyPz81Jcb10/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TyPz81Jcb10/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TyPz81Jcb10/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TyPz81Jcb10/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TyPz81Jcb10/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 65,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TyPz81Jcb10"
+    }
+   },
+   "contentDetails": {
+    "videoId": "TyPz81Jcb10",
+    "videoPublishedAt": "2017-01-25T20:46:59.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/GeLQMCqOupyZwTwsk7zV6RpcedE\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5ENjg3MEUyQ0IzODMzQThB",
+   "snippet": {
+    "publishedAt": "2017-09-15T21:32:36.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Eminem - Rap God (Explicit)",
+    "description": "Download Eminem's 'MMLP2' Album on iTunes now:http://smarturl.it/MMLP2\n\nCredits below\nVideo Director: Rich Lee\nVideo Producer: Justin Diener\nVideo Producer: Kathy Angstadt",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XbGs_qK2PQA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XbGs_qK2PQA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XbGs_qK2PQA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XbGs_qK2PQA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XbGs_qK2PQA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 66,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XbGs_qK2PQA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "XbGs_qK2PQA",
+    "videoPublishedAt": "2013-11-27T16:50:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/tmz7cZPrR0ryAjbqykMQfIYgNI8\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby41MzJFNEYxODEyNzA0QUUx",
+   "snippet": {
+    "publishedAt": "2017-09-15T18:29:10.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "MACKLEMORE FEAT SKYLAR GREY - GLORIOUS (OFFICIAL MUSIC VIDEO)",
+    "description": "GEMINI - AVAILABLE NOW\nhttp://smarturl.it/MacklemoreGemini\n\nDIRECTED BY Jason Koenig\n\nSTARRING\nHelen Schott & Ben Haggerty \n\nCONCEPT BY\nBen Haggerty\n\nPRODUCED BY  \nHonna Kimmerer \n\nDIRECTOR OF PHOTOGRAPHY\nJohnny Valencia\n\nEDITED BY \nJason Koenig, Johnny Valencia, Ben Haggerty, \n\nADDITIONAL EDITING\nPhillip Harvey\n\nPRODUCTION COORDINATOR\nHannah Benson \n\nSHOT BY \nJohnny Valencia & Jason Koenig\n\nSPECIAL THANKS\nThe City of Modesto, Josh \"Budo\" Karp, Julie Schott, Gladys Ahart, Frankee Tanner, Barbara Mackler, Jane Wann, Cody Raburn aka Mr. Showtyme, Bill & Nikole Wann, Cheryl Chamness, Doug & Lisa Cook, Scotty B & Foundation Tattoo, RunAround Sue's, Boomers Staff, WinCo Plaza Parkway, Second Chance Consignment, Wally & Turlock Lake State Recreational Area, Ryan McKinnon, \n\nSONG CREDITS\n\nMacklemore\nGlorious feat. Skylar Grey\n\nPerformed by Macklemore and Skylar Grey\nProduced by Joshua \"Budo\" Karp\nAdditional Production by Tyler Dopps\n\nWritten by: B. Haggerty; H. Hafermann; J. Karp; T. Andrews; T. Dopps  \n\nLyrics by Ben Haggerty and Holly Hafermann\nAdditional Vocals by Donna Missal\nTrombone by Raymond Mason\nTrumpet, Flügelhorn & Euphonium; Horn Arrangements by Todd M. Simon\nPiano by Joshua “Budo” Karp\nBass by Joshua “Budo” Karp\nDrum Programming by Joshua “Budo” Karp\nSynth by Tyler Dopps\nAdditional Background Vocals by Adam Aejaye Jackson, Niomisha Renee Wilson, Oren Waters, Valerie Pinkston, Brenda McClure, Harrison White, Will Wheaton, and Bridgett Bryant\nAdditional Piano by Josh Rawlings\nAdditional Drum Programming by Tyler Dopps\n\nMixed by Jon Castelli at The Gift Shop, DTLA\nMastered by Dale Becker\nEngineered by Tyler Dopps \nAdditional Engineering by Nick Mac and Sean Kellett \nEngineer for Mix Ingmar Carlson\n\nMacklemore Publishing (BMI)\nZ Songs (BMI)\nGutterfunk (ASCAP)\nTyler Andrews (ASCAP)\nDopps Tyler Matthews (BMI)\n\nSkylar Grey appears courtesy of Kid In A Korner / Interscope Records\n\nMacklemore managed by Zach Quillen & Josh Dick\n\n© 2017 Bendo, LLC. All rights reserved.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7OrLroFa0AI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7OrLroFa0AI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7OrLroFa0AI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7OrLroFa0AI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 67,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7OrLroFa0AI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "7OrLroFa0AI",
+    "videoPublishedAt": "2017-07-06T16:01:19.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/-Zz4eSvuvfGq95AglSRvvqMRbuw\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5EODkyNDMzRkJBNkQ2NkMz",
+   "snippet": {
+    "publishedAt": "2017-09-15T05:12:42.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "XXXTENTACION - Save Me (Audio)",
+    "description": "Official Audio by XXXTENTACION - Save Me (Audio) © 2017 Bad Vibes Forever / EMPIRE",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-8xdDaRFdwc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-8xdDaRFdwc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-8xdDaRFdwc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-8xdDaRFdwc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-8xdDaRFdwc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 68,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-8xdDaRFdwc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "-8xdDaRFdwc",
+    "videoPublishedAt": "2017-08-25T16:38:37.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/dBoC9zKIQEKS8_yfo5bkfEETpoM\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5BRUVCN0E0MzEwQzAwNjMy",
+   "snippet": {
+    "publishedAt": "2017-09-15T02:59:58.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Little Monarch - \"No Matter What\" Lyric Video",
+    "description": "Official Lyric Video for \"No Matter What\" by Little Monarch\n\nGet the Debut EP Now: https://lnk.to/LittleMonarch",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/enum2qHUK70/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/enum2qHUK70/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/enum2qHUK70/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/enum2qHUK70/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/enum2qHUK70/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 69,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "enum2qHUK70"
+    }
+   },
+   "contentDetails": {
+    "videoId": "enum2qHUK70",
+    "videoPublishedAt": "2016-11-22T17:42:14.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/juUkMj_YOcP-weu-Va4-hcOiLHQ\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby41NUMwNTVERDNBRDc4REM0",
+   "snippet": {
+    "publishedAt": "2017-09-14T16:59:41.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Shoffy feat. Lincoln Jesser - Takes My Body Higher (Official Music Video)",
+    "description": "Shoffy feat. Lincoln Jesser - Takes My Body Higher is OUT NOW on SOURCE! Listen / download at your favorite service: https://source.lnk.to/TakesMyBodyHigher\n\nStay up to date on more Spinnin' artists & music here! ► http://spinninrecords.com\n\nMesmerizing music by Shoffy featuring Lincoln Jesser resulting in one of the most captivating tunes of the year. The groove and melody immediately grab you, while the vocals draw you in further, sweet and touching, made for those special moments on the floor. Takes My Body Higher is what it does, definitely one of this year’s gems!\n\nFollow Shoffy:\nhttp://soundcloud.com/shoffymusic\nhttp://facebook.com/shoffymusic\nhttps://twitter.com/shoffymusic\nhttps://www.instagram.com/shoffymusic/\nhttps://www.youtube.com/user/ShoffyMusic\n\nFollow Lincoln Jesser:\nhttps://soundcloud.com/lincolnjesser\nhttps://www.facebook.com/lincolnjesser\nhttps://www.instagram.com/lincolnjesser/\nhttps://twitter.com/lincolnjesser\nhttps://www.youtube.com/lincolnjesser",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Xy3rcoz-8rU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Xy3rcoz-8rU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Xy3rcoz-8rU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Xy3rcoz-8rU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 70,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Xy3rcoz-8rU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Xy3rcoz-8rU",
+    "videoPublishedAt": "2016-04-29T12:00:02.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/AEKu45R3acQWmcgnQky1VoI64Dc\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby4wQTI4OEZFRUE0Q0Q3ODQw",
+   "snippet": {
+    "publishedAt": "2017-09-14T16:17:42.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Logic - Black SpiderMan ft. Damian Lemar Hudson",
+    "description": "Logic \"EVERYBODY\" available May 5th. Pre-order here: http://smarturl.it/EverybodyDeluxe?iqid=yt  \n\nFollow Logic:\nhttps://twitter.com/Logic301\nhttp://fb.com/MindofLogic\nhttps://instagram.com/Logic301\n\nMusic video by Logic performing Black SpiderMan. (C) 2017 Def Jam Recordings, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/6bYZ1S",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sxjC4CNG3_c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sxjC4CNG3_c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sxjC4CNG3_c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sxjC4CNG3_c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sxjC4CNG3_c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 71,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sxjC4CNG3_c"
+    }
+   },
+   "contentDetails": {
+    "videoId": "sxjC4CNG3_c",
+    "videoPublishedAt": "2017-04-14T00:00:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/D7YFfLY8L6cbgeF6Q0nHUICsZ_8\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby4xRDJGOTc4RkUxMzUwMUFG",
+   "snippet": {
+    "publishedAt": "2017-09-14T11:10:44.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Lana Del Rey - White Mustang (Official Video)",
+    "description": "From the brand new album Lust for Life, out now. Stream/Buy: https://lana.lnk.to/LFLaID \n\nFollow Lana Del Rey:\nhttp://www.instagram.com/lanadelrey\nhttp://www.facebook.com/lanadelrey\nhttp://www.twitter.com/lanadelrey\nhttp://lanadelrey.tumblr.com\nhttp://www.lanadelrey.com\n\nMusic video by Lana Del Rey performing White Mustang. (C) 2017 Lana Del Rey, under exclusive licence to Polydor Ltd. (UK). Under exclusive licence to Interscope Records in the USA\n\nhttp://vevo.ly/DiGrcB",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/F4ELqraXx-U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/F4ELqraXx-U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/F4ELqraXx-U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/F4ELqraXx-U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/F4ELqraXx-U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 72,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "F4ELqraXx-U"
+    }
+   },
+   "contentDetails": {
+    "videoId": "F4ELqraXx-U",
+    "videoPublishedAt": "2017-09-13T15:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Cw2K48WI8L-0bWvlXlRCKe4c7CU\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby4wMDkwRkI3NzExODA2MTFG",
+   "snippet": {
+    "publishedAt": "2017-09-14T08:06:33.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Miguel - Sky Walker (Official Video) ft. Travis Scott",
+    "description": "New Music from Miguel - \"Skywalker\" ft. Travis Scott\nDownload on iTunes: http://smarturl.it/mSkywalker/itunes\nStream on Spotify: http://smarturl.it/mSkywalker/spotify\nApple Music: http://smarturl.it/mSkywalker/applemusic\nAmazon Music: http://smarturl.it/mSkywalker/amazonmusicbuy\nGoogle Play: http://smarturl.it/mSkywalker/googleplay\n\nFollow Miguel:\nhttps://www.facebook.com/miguelmusic/\nhttps://twitter.com/Miguel\nhttps://www.instagram.com/miguel/\n\nFollwo Travis Scott:\nhttps://www.facebook.com/travisscottlaflame/\nhttps://twitter.com/trvisXX\nhttps://www.instagram.com/travisscott/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/76O3w4pt0CA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/76O3w4pt0CA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/76O3w4pt0CA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/76O3w4pt0CA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/76O3w4pt0CA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 73,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "76O3w4pt0CA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "76O3w4pt0CA",
+    "videoPublishedAt": "2017-08-25T03:15:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/rtHZuXdmQMO0DdHI4CZ2ynPFl88\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5BRDg1NUY1OTY2QzgzOEM0",
+   "snippet": {
+    "publishedAt": "2017-09-14T07:17:25.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Disco Tits",
+    "description": "Provided to YouTube by Universal Music Group International\n\nDisco Tits · Tove Lo\n\nDisco Tits\n\n℗ ℗ 2017 Universal Music AB\n\nReleased on: 2017-09-07\n\nMixer: Serban Ghenea\nMastering  Engineer: Chris Gehringer\nVocals: Tove Lo\nAssistant  Mixer: John Hanes\nProgramming, Producer: The Struts\nAdditional  Vocals: Fat Max Gsus\nAuthor, Composer: Tove Lo\nComposer, Author: Ludvig Söderberg\nComposer, Author: Jakob Jerlström\nMusic Publisher: Warner / Chappell Music Scandinavia AB\nMusic Publisher: Wolf Cousins\n\nAuto-generated by YouTube.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FrtkAFrkDCs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FrtkAFrkDCs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FrtkAFrkDCs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FrtkAFrkDCs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FrtkAFrkDCs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 74,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FrtkAFrkDCs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "FrtkAFrkDCs",
+    "videoPublishedAt": "2017-09-07T16:25:11.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/jW6GCaotEGGkAjY1bJQ6oHUEdKw\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby42NEZDNTU0RTRENDUzRjMz",
+   "snippet": {
+    "publishedAt": "2017-09-14T06:51:34.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Thirty Seconds To Mars - Walk On Water (Lyric Video)",
+    "description": "Everything you are about to see was filmed on a single day in the United States of America. July 4th, 2017.\n\nOver 10,000 people submitted footage of a single day including 92 of our professional crews. They filmed across the country in all fifty states plus Puerto Rico and D.C. and captured a portrait of this country that is absolutely beautiful, challenging and unforgettable. \n\nA very small selection of that footage you see here. The rest will be part of a documentary film (directed by Jared Leto) that is a companion piece to our brand new album.\nThe album. The film. The tour. \n\nComing soon. \n\nThirty Seconds To Mars.\n\nGet Walk On Water: http://smarturl.it/WalkOnWaterMARS\nSpotify: http://smarturl.it/WalkOnWaterMARS/sp...\nApple Music: http://smarturl.it/WalkOnWaterMARS/ap...\nGoogle: http://smarturl.it/WalkOnWaterMARS/go...\nDeezer: http://smarturl.it/WalkOnWaterMARS/de...\n\nDownload Walk On Water:\niTunes: http://smarturl.it/WalkOnWaterMARS/it...\nAmazon: http://smarturl.it/WalkOnWaterMARS/am...\nGoogle Play\n\nGet more music from Thirty Seconds to Mars:\n\nShop the Thirty Seconds to Mars’ Store: http://www.thirtysecondstomarsstore.com\n\nFollow Thirty Seconds to Mars:\nhttp://www.ThirtySecondsToMars.com\nFacebook: http://smarturl.it/TSTMars_FB\nInstagram: http://smarturl.it/TSTMars_IG\nSpotify: http://smarturl.it/TSTMars_SP\nTwitter: http://smarturl.it/TSTMars_TW\nSnapchat: http://smarturl.it/TSTMars_SN\nSubscribe to their YouTube channel: http://smarturl.it/TSTMars_YTSubscribe\n\nSee Thirty Seconds to Mars live: http://www.thirtysecondstomars.com/tour\n\nCORRECTION: There is an incorrect lyric in the video. It should read \"Blood lust AND a holy war\" not \"Blood lust IN a holy war.\" Shit happens when you're pulling all nighters and chasing deadlines. Because of our inability to fix this now that the video has been launched it will unfortunately live this way FOREVER. Hopefully people wont come to the shows for the next decade or two singing the wrong lyric but if they do we will always know why. Thx!\n\nLYRICS: \nDO YOU BELIEVE?\nWALK ON WATER\nCAN YOU EVEN SEE WHAT YOU’RE FIGHTING FOR?\nBLOOD LUST AND A HOLY WAR\nLISTEN UP, HEAR THE PATRIOT SHOUT\nTIMES ARE CHANGING\nIN THE END THE CHOICE WAS CLEAR\nTAKE A SHOT IN THE FACE OF FEAR\nFIST UP IN THE FIRING LINE\nTIMES ARE CHANGING\nDO YOU BELIEVE THAT YOU CAN WALK ON WATER?\nDO YOU BELIEVE THAT YOU CAN WIN THIS FIGHT TONIGHT?\n(DO YOU BELIEVE?)\nLOOK AT THE SKY SEE A DYING STAR\nWHITE LIES, IT'S A MAN ON FIRE\nMAKING LOVE WITH THE DEVIL HURTS\nTIMES ARE CHANGING\nA THIN LINE\nTHE WHOLE TRUTH\nTHE FAR RIGHT\nTHE LEFT VIEW\nBREAKING ALL THOSE PROMISES MADE\nTIMES ARE CHANGING\nDO YOU BELIEVE THAT YOU CAN WALK ON WATER?\nDO YOU BELIEVE THAT YOU CAN WIN THIS FIGHT TONIGHT?\nDO YOU BELIEVE THAT YOU CAN WALK ON WATER?\nDO YOU BELIEVE THAT YOU CAN WIN THIS FIGHT TONIGHT?\nDO YOU BELIEVE?\nWALK ON WATER\nDO YOU BELIEVE?\nWALK ON WATER\nDO YOU BELIEVE?\nWALK ON WATER\nDO YOU BELIEVE?\nWALK ON WATER\nDO YOU BELIEVE?\nWALK ON WATER\nDO YOU BELIEVE?\nWALK ON WATER\nDO YOU BELIEVE?\nWALK ON WATER\nDO YOU BELIEVE?\nWALK ON WATER\nDO YOU BELIEVE THAT YOU CAN WALK ON WATER?\nDO YOU BELIEVE THAT YOU CAN WIN THIS FIGHT TONIGHT?\nDO YOU BELIEVE?\nWALK ON WATER\nDO YOU BELIEVE THAT YOU CAN WALK ON WATER?\nDO YOU BELIEVE THAT YOU CAN WIN THIS FIGHT TONIGHT?\nDO YOU BELIEVE?\nWALK ON WATER\nDO YOU BELIEVE?\nWALK ON WATER\n\nMusic video by Thirty Seconds To Mars performing Walk On Water. (C) 2017 Thirty Seconds to Mars under exclusive license to Interscope Records",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FA2w-PMKspo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FA2w-PMKspo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FA2w-PMKspo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FA2w-PMKspo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FA2w-PMKspo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 75,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FA2w-PMKspo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "FA2w-PMKspo",
+    "videoPublishedAt": "2017-08-22T12:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/4003UHQPfd2obplBOeqI9gl3ubY\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby43NjE5NDdDRTdENjQ3RTkw",
+   "snippet": {
+    "publishedAt": "2017-09-14T01:19:16.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Slushii - So Long (feat. Madi) [Official Music Video]",
+    "description": "The official Mad Decent YouTube Music Video release of Slushii - So Long (feat. Madi).  Stream the full track and other Slushii releases here or show support on iTunes or Google Play.\n\nDownload/Stream: https://MadDecent.lnk.to/SoLongdZ\n\nSlushii's single \"So Long\" featuring Madi is brought to life in the official music video, directed by Karam Gill! Watch as an elderly couple goes back in time through the years via virtual reality, and in the end, realizes that some memories never fade.\n\nFollow Slushii:\nFacebook: https://www.facebook.com/SlushiiMusic\nTwitter: https://twitter.com/SlushiiMusic\nSoundcloud: https://soundcloud.com/slushiimusic\nYouTube: https://www.youtube.com/slushiimusic\n\nFollow Madi:\nFacebook: https://www.facebook.com/madimakesmusica\nTwitter: https://twitter.com/madimakesmusica\nSoundcloud: https://soundcloud.com/madimakesmusica\n\nFollow Mad Decent:\nFacebook: https://www.facebook.com/maddecent\nTwitter: https://twitter.com/maddecent\nSoundcloud: https://soundcloud.com/maddecent\nWeb: http://maddecent.com\n\nDirector: Karam Gill\nCreative Agency: 23FIFTN\nProducer: Reed Matthews\nDirector of Photography: Ian Quill\n1st AD: Jack Winter\n2nd AD: Jake Herman\nUnit Production Manager: Steven Taylor\nProduction Coordinator: Jack Winter\nProduction Designer: Garnet Burke & Bryce Neville\nEditor/DIT: Alex Crosby\nColorist: Kinan Chabani\nCasting Director: Jake Van Zyll\nKey Grip: Corbin Speed\nWardrobe: Hannah McCloughlin\nMakeup & Hair: Joel David Reed\nKey PA: Clay Dirkse\nPA: Cole Mier\n\nCast: Barbara Pergament (Elderly Woman), G. Larry Butler (Elderly Man), Kate Tumanova (Adult Woman), Michael Litchfield (Adult Man), Mila Brener (Young Girl), Rawann Gracie (Young Boy), Laquannia Lewis (Futuristic Attendant), Julian Goza (Boyfriend)\n\nSubscribe to Mad Decent on YouTube: http://bit.ly/1BSQ9ST",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_8hRRRJp1rQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_8hRRRJp1rQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_8hRRRJp1rQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_8hRRRJp1rQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_8hRRRJp1rQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 76,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_8hRRRJp1rQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "_8hRRRJp1rQ",
+    "videoPublishedAt": "2016-08-01T21:41:33.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/pNGh4S1mT2dasaZuUnxk1bupwRQ\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby4wRkVBNUY4OTkzN0JCNTA2",
+   "snippet": {
+    "publishedAt": "2017-09-14T01:17:52.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Madeon - Finale",
+    "description": "Debut album ADVENTURE:\nhttp://smarturl.it/MadeonAdventure?IQid=yt\nhttp://smarturl.it/AdventureDeluxe?IQid=yt\n\nVinyl and CDs: http://smarturl.it/MadeonOfficialStore?IQid=yt\n\nFeaturing vocals by Nicholas Petricca from Walk The Moon.\n\nFINALE\n\nDownload: http://smarturl.it/AdventureDeluxe?IQid=yt\nStreaming: http://smarturl.it/MadeonStream?IQid=yt\n\nMADEON\nSubscribe: http://smarturl.it/MadeonYT?IQid=yt\nhttp://madeon.fr/\nhttps://facebook.com/itsmadeon\nhttps://twitter.com/madeon",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/j0h2u87JwyA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/j0h2u87JwyA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/j0h2u87JwyA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/j0h2u87JwyA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/j0h2u87JwyA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 77,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "j0h2u87JwyA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "j0h2u87JwyA",
+    "videoPublishedAt": "2012-07-16T17:12:32.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/IpS-nY4SkAuyEQc7Bj9Mv18oGRE\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby43RDg3MzJDMTRFMTZFOTAw",
+   "snippet": {
+    "publishedAt": "2017-09-14T01:14:35.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Madeon - Imperium",
+    "description": "Debut album ADVENTURE:\nhttp://smarturl.it/AdventureDeluxe\n\nVinyl and CDs: http://smarturl.it/MadeonOfficialStore?IQid=yt\n\nThis song is quite different from everything else I've been doing, I hope you like it !\nMore to come...\n\nIMPERIUM\n\nDownload: http://smarturl.it/AdventureDeluxe?IQid=yt\nStreaming: http://smarturl.it/MadeonStream?IQid=yt\n\nMADEON\nSubscribe: http://smarturl.it/MadeonYT?IQid=yt\nhttp://madeon.fr/\nhttps://facebook.com/itsmadeon\nhttps://twitter.com/madeon\n\nartwork & video by Madeon",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ng4291cptOk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ng4291cptOk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ng4291cptOk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ng4291cptOk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ng4291cptOk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 78,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ng4291cptOk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ng4291cptOk",
+    "videoPublishedAt": "2014-10-17T19:20:12.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/gVkXbO5u2XeOIi-SSYtvzT2jYbM\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5BNzdEQzY0REQzQTEyN0U3",
+   "snippet": {
+    "publishedAt": "2017-09-14T01:01:06.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Backstreet Boys - I Want It That Way",
+    "description": "Backstreet Boys' official music video for 'I Want It That Way'. Click to listen to Backstreet Boys on Spotify: http://smarturl.it/BBSpot?IQid=BBTW\n\nBackstreet Boys will be going back on tour in 2017 starting on March 1! \n\nBuy/Listen The Essential Backstreet Boys:\nAmazon - http://smarturl.it/bsb_te_amzn?IQid=ytd.bsb.iwitw\niTunes - http://smarturl.it/bsb_te_itunes?IQid=ytd.bsb.iwitw\nSpotify - http://smarturl.it/bsb_te_spotify?IQid=ytd.bsb.iwitw \n\nAbout The Essential:\nTwo CD 29-track compilation from the boyband featuring hits, album tracks and fan favorites including \"Everybody (Backstreet's Back)\", \"I Want It That Way\", \"Larger Than Life\", \"Quit Playing Games (With My Heart)\" and more favorites.\n\nMore from Backstreet Boys\nIncomplete: https://youtu.be/WVe80iZtlYU\nShow Me The Meaning Of Being Lonely: https://youtu.be/aBt8fN7mJNg\nAs Long As You Love Me: https://youtu.be/0Gl2QnHNpkA\n\nMore great Ultimate Hits Of The Nineties videos here: http://smarturl.it/UHNPlaylist?IQid=BBTW\n\nFollow Backstreet Boys\nWebsite - http://www.backstreetboys.com/\nFacebook - https://www.facebook.com/backstreetboys\nTwitter - https://twitter.com/backstreetboys\nYouTube - http://smarturl.it/BKBSub?IQid=BBTW\n\n---------\n\nLyrics:\n\nTell me why\nAin't nothin' buta heartache\nTell me why\nAin't nothin' but a mistake\nTell me why\nI never wanna hear you say\nI want it that way",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4fndeDfaWCg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4fndeDfaWCg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4fndeDfaWCg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4fndeDfaWCg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4fndeDfaWCg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 79,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4fndeDfaWCg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "4fndeDfaWCg",
+    "videoPublishedAt": "2009-10-25T07:07:57.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/H27GbU3NlH2o9JkviU_1GwAwc58\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5EODgyNjY4MzA3QzY5RTkx",
+   "snippet": {
+    "publishedAt": "2017-09-14T00:42:29.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "XXXTENTACION - Look At Me! (Official Video)",
+    "description": "Get the project, \"17\".\niTunes: https://itunes.apple.com/us/album/17/id1274653476?uo=4&at=1001l3Iq&ct=888915443767&app=itunes\nSpotify: https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0\nGoogle Play: https://play.google.com/store/music/artist/XXXTENTACION?id=Amd6avxziwdarq7g24j7t65kadm&hl=en\n\nGet the single, \"Look At Me!\".\niTunes: https://itunes.apple.com/us/album/look-at-me-single/id1207987856?uo=4&at=1001l3Iq&ct=888915346167&app=itunes\nSpotify: https://open.spotify.com/album/3cyyJALrHc8LawnQNFYRWL\nGoogle Play: https://play.google.com/store/music/album/XXXTENTACION_Look_At_Me?id=Bfstophj2oaeima2mp32fcfne4m&PAffiliateID=1101l3z7&PCamRefID=888915346167\n\nCREDITS\n\nWRITTEN & CREATIVE DIRECTED BY: XXXTENTACION\n-\nDIRECTED BY: JMP\nDP/AD:  JOEY SZELA\nGIMBAL OPERATOR: JMP\nPRODUCED BY: AHMED DIABATE\nAC: DILLON HEARNS\nEDITOR: JMP\nSTUNT COORDINATOR: JUAN BOFILL\nCASTING: LASHAWNNA STANLEY, UMA NATALIA\nLEAD ACTRESS: CHELSEA SMITH\nMAKEUP: DANIELLE SMITH\nPA: JIORGI MILLER, REMY MILCHMAN, ERIC CORBIN, CARLOS GALLEGO \n-\nPRODUCTION COMPANY: THE MAIN IDEA (www.themainidea.tv)\nRECORD LABEL: EMPIRE\n\nOfficial Video by XXXTENTACION - Look At Me! © 2017 Bad Vibes Forever / EMPIRE",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qku2WZ7aRYw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qku2WZ7aRYw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qku2WZ7aRYw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qku2WZ7aRYw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qku2WZ7aRYw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 80,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qku2WZ7aRYw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "qku2WZ7aRYw",
+    "videoPublishedAt": "2017-09-12T18:26:56.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/W6NIPnxeZcIJ6-UzkoaJskbD8eI\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby4wN0FBRUVFNEVBMTZBQ0Mx",
+   "snippet": {
+    "publishedAt": "2017-09-14T00:36:41.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "YG - My Nigga (Explicit) ft. Jeezy, Rich Homie Quan",
+    "description": "#MYKRAZYLIFE - Available Now! \niTunes Deluxe: http://smarturl.it/iMyKrazyLifeD \niTunes Standard: http://smarturl.it/iMyKrazyLife \nAmazon Deluxe: http://smarturl.it/aMyKrazyLifeD \nAmazon Standard: http://smarturl.it/aMyKrazyLife \nGoogle Play Deluxe: http://goo.gl/XNT73b \nIncludes The Mega Anthem \"My Ni**a (Remix)\" \nAlso The Hit \"Who Do You Love?\" f. Drake \nAppearances By Kendrick Lamar, ScHoolboy Q, DJ Mustard, Jeezy, Rich Homie Quan, Ty Dolla $ign, and more! \n\nMusic video by YG performing My Nigga (Explicit). ©:  Def Jam Recordings, a division of UMG Recordings, Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MSrTnWDTdwI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MSrTnWDTdwI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MSrTnWDTdwI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MSrTnWDTdwI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MSrTnWDTdwI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 81,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MSrTnWDTdwI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "MSrTnWDTdwI",
+    "videoPublishedAt": "2013-09-06T15:41:43.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/S2uxqHoe2LIMwPMQOhGrXAUYriI\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby4zNDIxRUJGQThFRTg1QzAy",
+   "snippet": {
+    "publishedAt": "2017-09-13T22:07:00.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Guns N' Roses - Paradise City",
+    "description": "Music video by Guns N' Roses performing Paradise City. YouTube view counts pre-VEVO: 3,424,935. (C) 1988 Guns N' Roses under exclusive license to Geffen Records",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Rbm6GXllBiw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Rbm6GXllBiw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Rbm6GXllBiw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Rbm6GXllBiw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Rbm6GXllBiw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 82,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Rbm6GXllBiw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Rbm6GXllBiw",
+    "videoPublishedAt": "2009-12-25T08:41:50.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/h4XMD6r4J9_8TWKySEM27CdioeU\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby4yOTZGRTNEQ0ZGNUM5RDgw",
+   "snippet": {
+    "publishedAt": "2017-09-13T21:53:29.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Led Zeppelin - Stairway To Heaven (NOT LIVE) (Perfect Audio)",
+    "description": "Complete with unaltered audio.\r\nIt describes it self.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IS6n2Hx9Ykk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IS6n2Hx9Ykk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IS6n2Hx9Ykk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 83,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IS6n2Hx9Ykk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "IS6n2Hx9Ykk",
+    "videoPublishedAt": "2009-04-23T01:17:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/EtsGukqFNTNtlaXcJ0OxPMgTtkU\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5CQzUwREI3MzkxQjdBM0E0",
+   "snippet": {
+    "publishedAt": "2017-09-13T02:44:23.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "BTS - I NEED U {Color coded lyrics Han|Rom|Eng}",
+    "description": "MORE INFO BELOW▼▼\n\nSuga - Gold\nRap Monster - Navy\nV - Purple\nJungkook - Red\nJ-Hope - Green\nJimin - Sky Blue\nJin - Pink\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nArtist: BTS\nSong:  I NEED U\nAlbum: 화양연화 pt.1\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nNO COPYRIGHT INFRINGEMENT INTENDED\n\nKorean: music.daum\nRomanization: dragonshine\nEnglish: pop!gasa",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7n5ieHnu90w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7n5ieHnu90w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7n5ieHnu90w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7n5ieHnu90w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7n5ieHnu90w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 84,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7n5ieHnu90w"
+    }
+   },
+   "contentDetails": {
+    "videoId": "7n5ieHnu90w",
+    "videoPublishedAt": "2015-04-29T15:41:11.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/9KJpMr408Wy6XGs_4m6HIPhxuww\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby43ODA2MDVCQzY5QzZDMjUw",
+   "snippet": {
+    "publishedAt": "2017-09-13T00:11:38.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Kelly Clarkson - Since U Been Gone",
+    "description": "Kelly Clarkson's official music video for 'Since U Been Gone'. Click to listen to Kelly Clarkson on Spotify: http://smarturl.it/KClarkSpot?IQid=KClarkSUBG\n\nAs featured on Greatest Hits - Chapter 1. Click to buy the track or album via iTunes: http://smarturl.it/KClarkGHiTunes?IQid=KClarkSUBG\nGoogle Play: http://smarturl.it/KClarkSUBGplay?IQid=KClarkSUBG\nAmazon: http://smarturl.it/KClarkGHAmz?IQid=KClarkSUBG\n\nMore from Kelly Clarkson\nStronger (What Doesn't Kill You): https://youtu.be/Xn676-fLq7I\nBecause Of You: https://youtu.be/Ra-Om7UMSJc\nBreakaway: https://youtu.be/c-3vPxKdj6o\n\nMore great 00s videos here: http://smarturl.it/Ultimate00?IQid=KClarkSUBG\n\nFollow Kelly Clarkson\nWebsite: http://www.kellyclarkson.com\nFacebook: https://www.facebook.com/kellyclarkson\nTwitter: http://www.twitter.com/kelly_clarkson\nInstagram: http://www.instagram.com/kellyclarkson\n\nSubscribe to Kelly Clarkson on YouTube: http://smarturl.it/KClarkSub?IQid=KClarkSUBG\n\n---------\n\nLyrics:\n\nHere's the thing we started out friends\nIt was cool but it was all pretend\nYeah yeah\nSince U Been Gone\n\nBut Since U Been Gone\nI can breathe for the first time\nI'm so moving on\nYeah, yeah\nThanks to you\nNow I get\nWhat I want\nSince U Been Gone",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/R7UrFYvl5TE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/R7UrFYvl5TE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/R7UrFYvl5TE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/R7UrFYvl5TE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/R7UrFYvl5TE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 85,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "R7UrFYvl5TE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "R7UrFYvl5TE",
+    "videoPublishedAt": "2010-09-28T02:47:38.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/CSjW6X7khI7wQ6eY1zaXR2-CZk4\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5GNzk2RTlDQTNCQzJCQzJG",
+   "snippet": {
+    "publishedAt": "2017-09-12T18:21:17.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "XXXTENTACION - Jocelyn Flores (Audio)",
+    "description": "Official Audio by XXXTENTACION - Jocelyn Flores (Audio) © 2017 Bad Vibes Forever / EMPIRE",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FAucVNRx_mU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FAucVNRx_mU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FAucVNRx_mU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FAucVNRx_mU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FAucVNRx_mU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 86,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FAucVNRx_mU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "FAucVNRx_mU",
+    "videoPublishedAt": "2017-08-25T16:38:44.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ssKfnZispbt-lypWTJhq4UtGeTM\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby44QjNCNkRENjNFQTBEMUND",
+   "snippet": {
+    "publishedAt": "2017-09-12T17:34:57.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Ryan Caraveo - We Don't Need 'Em",
+    "description": "Purchase Ryan Caraveo's new album \"Maybe They Were Wrong\" on\niTunes: http://eargasmic.me/2giV6Pn\nGoogle Play Music: http://eargasmic.me/2fqqhUJ\n\nFollow our new account & playlists on Spotify: http://eargasmic.me/SwagySpotify\n\n• Ryan Caraveo -\nhttps://www.youtube.com/user/RyanCaraveo\nhttps://www.facebook.com/ryan.caraveo\nhttps://soundcloud.com/RyanCaraveo\nhttps://twitter.com/ryancaraveo\n\nPhoto credit: https://unsplash.com/photos/JiOIzFytKYk\n\n.........\n\nFollow SwagyTracks on\nFacebook • http://www.facebook.com/SwagyTracks\nTwitter • https://twitter.com/SwagyTracks\nSoundCloud • https://soundcloud.com/SwagyTracks\nInstagram • https://www.instagram.com/swagytracks",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/x_DZehu7aEw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/x_DZehu7aEw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/x_DZehu7aEw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/x_DZehu7aEw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/x_DZehu7aEw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 87,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "x_DZehu7aEw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "x_DZehu7aEw",
+    "videoPublishedAt": "2017-02-26T20:26:28.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/B_1bSFuBtNDtqNJZBdAF51XQTM0\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5EMUJFNzRCNDRFQjE5RjM4",
+   "snippet": {
+    "publishedAt": "2017-09-12T17:16:17.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Call Me Karizma - I Want You",
+    "description": "Purchase/Stream Karizma's new EP \"Emo\" on\niTunes: http://eargasmic.me/2lbEvea\nGoogle Play Music: http://eargasmic.me/2lRY2oa\nSpotify: http://eargasmic.me/2lHMilG\n\n• Karizma -\nhttps://www.youtube.com/CallMeKarizmaTV\nhttps://soundcloud.com/callmekarizma\nhttps://twitter.com/CallMeKarizma\n\nPhoto by Alessio Lin\nhttps://www.instagram.com/lin.alessio\nhttps://unsplash.com/@paradox_zer0\n\n.........\n\nFollow SwagyTracks on\nFacebook • http://www.facebook.com/SwagyTracks\nTwitter • https://twitter.com/SwagyTracks\nSoundCloud • https://soundcloud.com/SwagyTracks",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UIJx8EXK_90/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UIJx8EXK_90/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UIJx8EXK_90/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UIJx8EXK_90/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UIJx8EXK_90/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 88,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UIJx8EXK_90"
+    }
+   },
+   "contentDetails": {
+    "videoId": "UIJx8EXK_90",
+    "videoPublishedAt": "2017-02-25T23:35:56.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/7DZfEZkrSAKXqq0ra7JwG59zvRU\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5CNEYyNTVBNDdGMDI1MDNC",
+   "snippet": {
+    "publishedAt": "2017-09-12T17:11:24.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Jaiden - Rockstar (Prod. Steezefield)",
+    "description": "• Jaiden -\nhttps://soundcloud.com/whereisjaiden\nhttps://twitter.com/whereisjaiden\n\n• Steezefield -\nhttps://soundcloud.com/steezefield\nhttps://twitter.com/steezefield\n\nPicture credit •\nhttps://unsplash.com/@timmossholder\n\n.........\n\nFollow SwagyTracks on\nFacebook • http://www.facebook.com/SwagyTracks\nTwitter • https://twitter.com/SwagyTracks\nSoundCloud • https://soundcloud.com/SwagyTracks",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hMms3b32YsI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hMms3b32YsI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hMms3b32YsI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hMms3b32YsI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hMms3b32YsI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 89,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hMms3b32YsI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "hMms3b32YsI",
+    "videoPublishedAt": "2016-12-31T18:00:02.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/hwN4bI6iGcOzViIYHShflsu3eLo\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby41ODIyMTgwQzA4NjJCQkZC",
+   "snippet": {
+    "publishedAt": "2017-09-12T17:00:18.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Kid Quill - A Song To Sing (feat. Mark Battles & Devvon Terrell)",
+    "description": "Purchase Kid Quill's new album \"The Name Above The Title\" on iTunes •\nhttps://itun.es/i6hN2Qh\nFollow our new account & playlists on Spotify: http://eargasmic.me/SwagySpotify\n\n• Kid Quill - \nhttps://www.facebook.com/KidQuill\nhttps://www.youtube.com/c/kidquill\nhttps://soundcloud.com/kidquill\nhttps://twitter.com/KidQuill\n\n• Devvon Terrell -\nhttps://www.facebook.com/DevvonTerrellMusic\nhttps://www.youtube.com/DevvonTerrell\nhttps://twitter.com/DevvonTerrell\n\n• Mark Battles -\nhttps://www.facebook.com/markbattlesmusic\nhttps://www.youtube.com/flyamericamusic\nhttps://twitter.com/markbattles317\n\nPicture credit •\nhttps://unsplash.com/@tiagoaguiar\n\n.........\n\nFollow SwagyTracks on\nFacebook • http://www.facebook.com/SwagyTracks\nTwitter • https://twitter.com/SwagyTracks\nSoundCloud • https://soundcloud.com/SwagyTracks",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/i7vaj20oMmA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/i7vaj20oMmA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/i7vaj20oMmA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/i7vaj20oMmA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/i7vaj20oMmA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 90,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "i7vaj20oMmA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "i7vaj20oMmA",
+    "videoPublishedAt": "2016-10-18T17:00:02.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/GYHGwLP6nMTRQ7HBjO05DsloF5A\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5FRjdGNDMzN0I2RTI3MDlG",
+   "snippet": {
+    "publishedAt": "2017-09-12T16:41:41.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Call Me Karizma - Sleep",
+    "description": "Purchase/Stream Karizma's new EP \"Emo\" on\niTunes: http://eargasmic.me/2lbEvea\nGoogle Play Music: http://eargasmic.me/2lRY2oa\nSpotify: http://eargasmic.me/2lHMilG\n\n• Karizma -\nhttps://www.youtube.com/CallMeKarizmaTV\nhttps://soundcloud.com/callmekarizma\nhttps://twitter.com/CallMeKarizma\n\nPhoto credit •\nhttps://unsplash.com/photos/BEOz0zDV4U4\n\n.........\n\nFollow SwagyTracks on\nFacebook • http://www.facebook.com/SwagyTracks\nTwitter • https://twitter.com/SwagyTracks\nSoundCloud • https://soundcloud.com/SwagyTracks",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QAobFwfgwxg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QAobFwfgwxg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QAobFwfgwxg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QAobFwfgwxg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QAobFwfgwxg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 91,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QAobFwfgwxg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "QAobFwfgwxg",
+    "videoPublishedAt": "2017-03-05T21:21:15.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/8MHrZwa5mlXw4n7WP8nDe-YjaWw\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby41RDUzRjJFQ0Y0MUI3NzU1",
+   "snippet": {
+    "publishedAt": "2017-09-12T16:30:23.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "KnowMads - Homecoming",
+    "description": "Purchase KnowMads' new album \"Knew School\" on:\niTunes • http://eargasmic.me/2a1AvJR\nGoogle Play • http://eargasmic.me/2akPdiF\n\n• KnowMads -\nhttps://www.youtube.com/blackout3842\nhttps://www.facebook.com/KnowMadFam\nhttps://soundcloud.com/pepeknowmads\nhttps://twitter.com/KnowMadFam\nhttp://www.knowmadfam.com\n\nPicture credit •\nhttps://unsplash.com/@omarprestwich\n\n.........\n\nFollow SwagyTracks on\nFacebook • http://www.facebook.com/SwagyTracks\nTwitter • https://twitter.com/SwagyTracks\nSoundCloud • https://soundcloud.com/SwagyTracks",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fUd8EytYeOw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fUd8EytYeOw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fUd8EytYeOw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fUd8EytYeOw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fUd8EytYeOw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 92,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fUd8EytYeOw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "fUd8EytYeOw",
+    "videoPublishedAt": "2016-08-02T17:00:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/eq3ynqEk99rV7QpssMBogANYrP8\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5ERENFNTk4Q0Q2MTZDMTA5",
+   "snippet": {
+    "publishedAt": "2017-09-12T16:08:02.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Kid Quill - Dose of Reality (feat. Alex Hall)",
+    "description": "Purchase Kid Quill's new album \"The Name Above The Title\" on iTunes •\nhttps://itun.es/i6hN2Qh\n\nFollow our new account & playlists on Spotify: http://eargasmic.me/SwagySpotify\n\n• Kid Quill - \nhttps://www.facebook.com/KidQuill\nhttps://www.youtube.com/c/kidquill\nhttps://soundcloud.com/kidquill\nhttps://twitter.com/KidQuill\n\nPicture credit •\nhttps://unsplash.com/@dillanchoiniere\n\n.........\n\nFollow SwagyTracks on\nFacebook • http://www.facebook.com/SwagyTracks\nTwitter • https://twitter.com/SwagyTracks\nSoundCloud • https://soundcloud.com/SwagyTracks",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XmlyJFOLpUk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XmlyJFOLpUk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XmlyJFOLpUk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XmlyJFOLpUk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XmlyJFOLpUk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 93,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XmlyJFOLpUk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "XmlyJFOLpUk",
+    "videoPublishedAt": "2016-11-29T18:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/inUsemrP8JIRaIKXnXEKRc26UMA\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby4yM0EyQ0U1M0I2RkIwNTQ0",
+   "snippet": {
+    "publishedAt": "2017-09-12T16:02:49.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Anthony Russo - Wanted Man (feat. Croosh) (Prod. Flyme)",
+    "description": "Download this track •\nhttp://eargasmic.me/2iKdWM3\n\n• Anthony Russo -\nhttps://www.youtube.com/channel/UCdJt4ZOl3ZvHs4FGt_yttKw\nhttps://www.facebook.com/anthonyrussomusic\nhttps://soundcloud.com/anthonyrusso\nhttps://twitter.com/AnthonyARusso\n\n• Croosh -\nhttps://www.youtube.com/channel/UCvYYkKsH4LhpKhjHWFinFwQ/\nhttps://www.facebook.com/crooshmusic\nhttps://soundcloud.com/jamir-malek\nhttps://twitter.com/croosh_\n\nProduced by Flyme\nhttps://soundcloud.com/flyme-productions\n\nPicture credit •\nhttps://unsplash.com/photos/NbR1rYBkyrg\n\n.........\n\nFollow SwagyTracks on\nFacebook • http://www.facebook.com/SwagyTracks\nTwitter • https://twitter.com/SwagyTracks\nSoundCloud • https://soundcloud.com/SwagyTracks",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Jb0BRpGiN7A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Jb0BRpGiN7A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Jb0BRpGiN7A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Jb0BRpGiN7A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Jb0BRpGiN7A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 94,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Jb0BRpGiN7A"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Jb0BRpGiN7A",
+    "videoPublishedAt": "2017-01-18T21:12:15.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/hmq1YNJ_2tkrDePxfFTSf3OiUTo\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5DQjg2RDQyMEVGQkZFOEVF",
+   "snippet": {
+    "publishedAt": "2017-09-12T06:54:23.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Witt Lowry - Wishing Wells",
+    "description": "DOWNLOAD AND LISTEN TO  \"WISHING WELLS\" BY PRE-ORDERING MY ALBUM HERE: https://itunes.apple.com/us/album/i-could-not-plan-this/id1276357629\n\nCOME SEE ME ON TOUR: http://www.wittlowrymusic.com/tour\n\nLISTEN ON SPOTIFY: https://open.spotify.com/album/0jgiVfodixiGRImrHtZrrv\n\nPURCHASE \"DREAMING WITH OUR EYES OPEN\" ON ITUNES, OUT NOW : https://itun.es/us/f84R9\n\n----------------------------------------\u00ad--------------------------------\n\nWitt Lowry:\n\nSPOTIFY: https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY\nFACEBOOK: https://www.facebook.com/WittLowry\nTWITTER: https://twitter.com/WittLowry\nINSTAGRAM: https://instagram.com/WittLowry\nSOUNDCLOUD: https://soundcloud.com/WittLowry\n\n----------------------------------------\u00ad--------------------------------\n\nTy-Nitty:\n\nTWITTER: https://twitter.com/prodbytynitty\nINSTAGRAM: https://www.instagram.com/prodbytynitty\n\n----------------------------------------\u00ad--------------------------------\n\nMixed by Ty-Nitty : @prodbytynitty\n\n----------------------------------------\u00ad--------------------------------\n\nArt by @doyouknowliam\n\n----------------------------------------\u00ad--------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PbqoNFNcn3s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PbqoNFNcn3s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PbqoNFNcn3s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PbqoNFNcn3s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/PbqoNFNcn3s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 95,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PbqoNFNcn3s"
+    }
+   },
+   "contentDetails": {
+    "videoId": "PbqoNFNcn3s",
+    "videoPublishedAt": "2017-09-12T03:28:44.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Ur-QVxJGvMiru517F4ewZ80DXcY\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby4wQUE0QzM4MkJGQ0YwQjUx",
+   "snippet": {
+    "publishedAt": "2017-09-11T02:37:31.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "blackbear - do re mi ft. Gucci Mane",
+    "description": "blackbear – do re mi feat – Gucci Mane\nfull length album 'digital druglord' available now\n\nhttp://smarturl.it/digitaldruglordBB\n\nMusic video by blackbear performing do re mi. (C) 2017 Beartrap, LLC under exclusive license to UMG Recordings, Inc.\n\nhttp://vevo.ly/X3JE6P",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dfzlUHOFQ5k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dfzlUHOFQ5k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dfzlUHOFQ5k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dfzlUHOFQ5k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dfzlUHOFQ5k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 96,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dfzlUHOFQ5k"
+    }
+   },
+   "contentDetails": {
+    "videoId": "dfzlUHOFQ5k",
+    "videoPublishedAt": "2017-07-28T04:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ON8N4fIe-0W2RRFHtQ8AYpsS4dQ\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5GMDBDNkJGMzYzREUyMTYw",
+   "snippet": {
+    "publishedAt": "2017-09-10T12:13:39.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "OnCue - \"3AM\" (Audio)",
+    "description": "SPOTIFY: https://open.spotify.com/track/4KJrtwzfCJp7CyoRSrnovE\n\nhttp://www.soundcloud.com/oncue/3am\n\nproduced by Myles William & K-Beatz\nmixed & mastered by Mike Kuz\nanimation by Hunter Lyon\nartwork by OnCue\n\nhttp://twitter.com/oncue\nhttp://instagram.com/mynamecuey\nhttp://twitter.com/iammyleswilliam\nhttp://twitter.com/iamkbeatz\nhttp://twitter.com/mike_kuz",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mkp77SOBsJ4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mkp77SOBsJ4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mkp77SOBsJ4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mkp77SOBsJ4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mkp77SOBsJ4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 97,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mkp77SOBsJ4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "mkp77SOBsJ4",
+    "videoPublishedAt": "2016-04-06T21:06:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/s8QJwoXF_ayWIqf5ez7TeJfZN8c\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5CMUM0NzY5NzdEQzlGRjAx",
+   "snippet": {
+    "publishedAt": "2017-09-10T06:27:38.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Witt Lowry - Blood In The Water",
+    "description": "PRE-ORDER MY NEW ALBUM \"I COULD NOT PLAN THIS\" HERE: https://itunes.apple.com/us/album/i-could-not-plan-this/id1276357629\n\nCOME SEE ME ON TOUR: http://www.wittlowrymusic.com/tour\n\nDOWNLOAD AND LISTEN TO  \"BLOOD IN THE WATER\" HERE: \nhttps://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY\n\n\nPURCHASE \"DREAMING WITH OUR EYES OPEN\" ON ITUNES, OUT NOW : https://itun.es/us/f84R9\n\n----------------------------------------\u00ad--------------------------------\n\nWitt Lowry:\n\nSPOTIFY: https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY\nFACEBOOK: https://www.facebook.com/WittLowry\nTWITTER: https://twitter.com/WittLowry\nINSTAGRAM: https://instagram.com/WittLowry\nSOUNDCLOUD: https://soundcloud.com/WittLowry\n\n----------------------------------------\u00ad--------------------------------\n\nJoey Castellani:\n\nTWITTER: https://twitter.com/Joeycastellani\nINSTAGAM: https://instagram.com/Joeycastellani\n\n----------------------------------------\u00ad--------------------------------\n\nCardiak:\n\nTWITTER: https://www.twitter.com/cardiakflatline\nINSTAGRAM: https://www.instagram.com/cardiakflatline\n\n----------------------------------------\u00ad--------------------------------\n\nMixed by Ty-Nitty : @prodbytynitty\n\n----------------------------------------\u00ad--------------------------------\n\nArt by @ doyouknowliam & @burakkostak on Instagram\n\n----------------------------------------\u00ad--------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dM1_G43sdhY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dM1_G43sdhY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dM1_G43sdhY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dM1_G43sdhY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dM1_G43sdhY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 98,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dM1_G43sdhY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "dM1_G43sdhY",
+    "videoPublishedAt": "2017-07-30T23:08:40.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/4BU520woU-oYjJvAw13vwHG7fZo\"",
+   "id": "UExmNGc2WHRTb01xVEpuSjNVU3JycDEtOFM1d05IcTZQby5EMzJDRTUwQjBEOUVFQzAw",
+   "snippet": {
+    "publishedAt": "2017-09-10T06:18:23.000Z",
+    "channelId": "UC5G-sybMmK9axJB4B88Gkjg",
+    "title": "Luke Christopher - Waterfalls (Official Video)",
+    "description": "TMRWFRVR - The Debut Album from Luke Christopher featuring \"Waterfalls\" \nDownload on Apple Music: http://smarturl.it/iTMRWFRVR\nStream on Spotify: http://smarturl.it/spTMRWFRVR\nAmazon Music: http://smarturl.it/azTMRWFRVR\nGoogle Play: http://smarturl.it/gpTMRWFRVR\n\nFollow Luke Christopher: \nhttps://www.facebook.com/lukechrismuzic \nhttps://twitter.com/AyLukeChris\nhttp://instagram.com/aylukechristopher\n\nDirected by Grant Spanier\nhttp://instagram.com/grantspanier",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w-iuzjjaWyw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w-iuzjjaWyw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w-iuzjjaWyw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/w-iuzjjaWyw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/w-iuzjjaWyw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "0shortland0",
+    "playlistId": "PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po",
+    "position": 99,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "w-iuzjjaWyw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "w-iuzjjaWyw",
+    "videoPublishedAt": "2017-06-23T04:00:03.000Z"
+   }
+  }
+ ]
+}

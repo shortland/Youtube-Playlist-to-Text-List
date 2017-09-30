@@ -17,8 +17,6 @@ getPlayLists($API_KEY, $playListID, "");
 
 sub getPlayLists {
 	my ($apikey, $playlistid, $nextpagetoken) = @_;
-	my $requestUrl = "https://www.googleapis.com/youtube/v3/playlistItems?pageToken=$nextpagetoken&part=snippet%2CcontentDetails&maxResults=50&playlistId=$playlistid&key=$apikey";
-
 	my $fileName;
 	if ($nextpagetoken =~ /^$/) {
 		$fileName = "firstOne";
@@ -27,8 +25,36 @@ sub getPlayLists {
 		$fileName = $nextpagetoken;
 	}
 
-	print $fileName."\n";
+	# handle dir deletion creation
+	handleDirMakeDelete($playlistid, $fileName);
 
+	writePagesData($apikey, $playlistid, $fileName, "", $playlistid);
+}
+sub writePagesData {
+	my ($apikey, $playlistid, $fileName, $next, $dirname) = @_;
+	my $requestUrl = "https://www.googleapis.com/youtube/v3/playlistItems?pageToken=$next&part=snippet,contentDetails&maxResults=50&playlistId=$playlistid&key=$apikey";
+	my $response = `curl -s "$requestUrl"`;
+	write_file($dirname."/".$fileName.".json", $response); print $!;
+	$response = decode_json($response);
+	# reset, and get next page keycode
+	$next = "";
+	$next = $response->{nextPageToken} if exists $response->{nextPageToken};
+	if ($next =~ /^$/) {
+		# do nothing
+		print "Done. No more pages in playlist.\n";
+	}
+	else {
+		print "Recursively going to next page. (".$next.")\n";
+		writePagesData($apikey, $playlistid, $next, $next, $dirname);
+	}
+}
+
+sub parsePageData {
+	my ($a) = @_;
+}
+
+sub handleDirMakeDelete {
+	my ($playlistid, $fileName) = @_;
 	if (-d $playlistid && $fileName =~ /^firstOne$/) {
 		print "Directory appears to be from a previous session. Deleting it and its contents...\n";
 		deleteDirectory($playlistid);
@@ -53,8 +79,7 @@ sub deleteDirectory {
 
 #return array
 sub getAllFilesInDir {
-	my @parms = @_;
-    my $dir = $parms[0];
+	my ($dir) = @_;
     my @files;
     opendir(DIR, $dir) or die $!;
     while (my $file = readdir(DIR)) {
