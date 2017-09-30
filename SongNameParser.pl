@@ -11,7 +11,7 @@ beginSequence();
 sub beginSequence {
 	my $answer;
 	my $hash = decode_json(read_file("authkey.persistent"));
-	if (length(decode_json(read_file("authkey.persistent"))->{apikey}) < 2) {
+	if (length($hash->{apikey}) < 2) {
 		print "\nNo YouTube API key on record. \nPlease register for an API key here: \n\thttps://developers.google.com/youtube/registering_an_application\n\nType:\n\t1) to exit\n\t2) to enter your API key\n:";
 		chomp($answer = <STDIN>);
 		if ($answer eq 2) {
