@@ -15,6 +15,7 @@ my $playListID = 'PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po'; # add requests to get thi
 # initial request
 getPlayLists($API_KEY, $playListID, "");
 
+# handler to begin recursive (if necessary) fetching of playlist pages
 sub getPlayLists {
 	my ($apikey, $playlistid, $nextpagetoken) = @_;
 	my $fileName;
@@ -28,8 +29,12 @@ sub getPlayLists {
 	# handle dir deletion creation
 	handleDirMakeDelete($playlistid, $fileName);
 
+	#write the page data.
 	writePagesData($apikey, $playlistid, $fileName, "", $playlistid);
 }
+
+# handler to write the json data to files so we can later parse through them all.
+# technically we could just get-> then parse. but we're saving the pages incase we want something else later...? song description etc.? idk.
 sub writePagesData {
 	my ($apikey, $playlistid, $fileName, $next, $dirname) = @_;
 	my $requestUrl = "https://www.googleapis.com/youtube/v3/playlistItems?pageToken=$next&part=snippet,contentDetails&maxResults=50&playlistId=$playlistid&key=$apikey";
@@ -41,7 +46,8 @@ sub writePagesData {
 	$next = $response->{nextPageToken} if exists $response->{nextPageToken};
 	if ($next =~ /^$/) {
 		# do nothing
-		print "Done. No more pages in playlist.\n";
+		print "Done. No more pages in playlist.\nProceeding with parsing through pages...\n";
+		parsePagesInDir($dirname, getAllFilesInDir($dirname));
 	}
 	else {
 		print "Recursively going to next page. (".$next.")\n";
@@ -49,8 +55,40 @@ sub writePagesData {
 	}
 }
 
-sub parsePageData {
-	my ($a) = @_;
+sub parsePagesInDir {
+	my ($dirname, @files) = @_;
+	# create file that'll hold each song title. delimited with new line
+	write_file($dirname."/SongTitles.txt", "");
+	# json formatted file to be proper :)
+	write_file($dirname."/SongTitles.json", "{\"titles\":[]}");
+	my $jsonData; # will contain each files json temporarily
+	#skip over hidden files
+	foreach my $file (@files) {
+		my $leadingChar = substr($file, 0, 1);
+		if ($leadingChar =~ /^\./) {
+			print "unimportant file... skipping it. (hidden files)\n";
+		}
+		else {
+			print "necessary file: " . $file . "\n";
+			($jsonData = read_file($dirname."/".$file)) =~ s/\n//g;
+			$jsonData = decode_json($jsonData);
+			my @items = @{$jsonData->{items}};
+			foreach my $item (@items) {
+				$item = $item->{snippet}{title};
+				#save videos and skip over deleted ones
+				append_file_utf8($dirname."/SongTitles.txt", $item."\n") unless ($item =~ /^Deleted video$/);
+			}
+		}
+	}
+}
+
+sub append_file_utf8 {
+    my ($name, $data) = @_;
+    open my $fh, '>>:encoding(UTF-8)', $name
+        or die "Couldn't create '$name': $!";
+    local $/;
+    print $fh $data;
+    close $fh;
 }
 
 sub handleDirMakeDelete {
@@ -96,19 +134,3 @@ sub deleteFileNamesFromArray {
 		print "\t $fileName was deleted...\n";
 	}
 }
-
-#rawr ok fine
-# #expected that playlist.json is filled... No automatic method for retrieval (Maybe I'll add later date. This is mostly personal project.)
-# print "Reading playlist.json...\n";
-
-# # read playlist, remove new lines so that we can parse it? seems to be giving error if i dont do this (decode_json)
-# (my $playList = read_file("playlist.json")) =~ s/\n//g;
-# # decode so we can parse into it
-# $playList = decode_json($playList);
-# # tell us how many songs are in the list
-# print "There are " . $playList->{pageInfo}{totalResults} . " songs in this playlist.\n";
-# my @playListItems = @{$playList->{items}};
-# print @playListItems.length;
-# foreach my $songItem (@playListItems) {
-# 	print $songItem->{snippet}{title}."\n";
-# }
