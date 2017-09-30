@@ -32,7 +32,6 @@ sub getPlayLists {
 	#write the page data.
 	writePagesData($apikey, $playlistid, $fileName, "", $playlistid);
 }
-
 # handler to write the json data to files so we can later parse through them all.
 # technically we could just get-> then parse. but we're saving the pages incase we want something else later...? song description etc.? idk.
 sub writePagesData {
@@ -57,35 +56,55 @@ sub writePagesData {
 
 sub parsePagesInDir {
 	my ($dirname, @files) = @_;
+	# holds video titles, so we can cross reference for repeats
+	my @allTitles;
 	# create file that'll hold each song title. delimited with new line
 	write_file($dirname."/SongTitles.txt", "");
 	# json formatted file to be proper :)
 	write_file($dirname."/SongTitles.json", "{\"titles\":[]}");
 	my $jsonData; # will contain each files json temporarily
-	#skip over hidden files
+	#parse it through
 	foreach my $file (@files) {
+		# skip hidden files
 		my $leadingChar = substr($file, 0, 1);
 		if ($leadingChar =~ /^\./) {
 			print "unimportant file... skipping it. (hidden files)\n";
 		}
 		else {
-			print "necessary file: " . $file . "\n";
+			print "Reading next file: " . $file . "\n";
 			($jsonData = read_file($dirname."/".$file)) =~ s/\n//g;
 			$jsonData = decode_json($jsonData);
 			my @items = @{$jsonData->{items}};
+			my $x = 0;
 			foreach my $item (@items) {
 				$item = $item->{snippet}{title};
-				#save videos and skip over deleted ones
-				append_file_utf8($dirname."/SongTitles.txt", $item."\n") unless ($item =~ /^Deleted video$/);
+
+				# find duplicates
+				if ($item ~~ @allTitles) {
+					print "Skipping found duplicate:\n\t'".$item . "'\n";
+				}
+				elsif ($item =~ /^Deleted video$/) {
+					print "Found deleted video. Skipping it.\n";
+				}
+				else {
+					# add to list
+					push(@allTitles, $item);
+				}
 			}
 		}
 	}
+	my $flattenedContext = join("\n", @allTitles);
+	write_file_utf8($dirname."/SongTitles.txt", $flattenedContext);
+	print scalar(@allTitles) . " titles saved!\n";
+	my $scalarHash = encode_json(\@allTitles);
+	my $readHash = decode_json(read_file($dirname."/SongTitles.json"));
+	$readHash->{titles} = $scalarHash;
+	write_file_utf8($dirname."/SongTitles.json", encode_json($readHash));
 }
 
-sub append_file_utf8 {
+sub write_file_utf8 {
     my ($name, $data) = @_;
-    open my $fh, '>>:encoding(UTF-8)', $name
-        or die "Couldn't create '$name': $!";
+    open my $fh, '>:encoding(UTF-8)', $name or die "Couldn't create '$name': $!";
     local $/;
     print $fh $data;
     close $fh;
