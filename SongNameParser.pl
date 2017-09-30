@@ -6,14 +6,51 @@ use strict;
 use JSON;
 use File::Slurp;
 
-# quick concept. by no means intentionally clean or proper code here!
-# ez way without oauth2. using only api key
+beginSequence();
 
-my $API_KEY = 'x';
-my $playListID = 'PLf4g6XtSoMqTJnJ3USrrp1-8S5wNHq6Po'; # add requests to get this later
-
-# initial request
-getPlayLists($API_KEY, $playListID, "");
+sub beginSequence {
+	my $answer;
+	my $hash = decode_json(read_file("authkey.persistent"));
+	if (length(decode_json(read_file("authkey.persistent"))->{apikey}) < 2) {
+		print "\nNo YouTube API key on record. \nPlease register for an API key here: \n\thttps://developers.google.com/youtube/registering_an_application\n\nType:\n\t1) to exit\n\t2) to enter your API key\n:";
+		chomp($answer = <STDIN>);
+		if ($answer eq 2) {
+			print "API Key: ";
+			chomp($answer = <STDIN>);
+			$hash->{apikey} = $answer;
+			write_file("authkey.persistent", encode_json($hash));
+			die "New key saved. Please restart the script, choosing the option to use a previously saved key.\n"; # redundant
+		}
+		elsif ($answer eq 1) {
+			die "\n";
+		}
+		else {
+			die "Invalid choice\n";
+		}
+	}
+	else {
+		print "A previous API key was found. Type: \n\t1) to use the saved key\n\t2) to enter a new API key\n:";
+		chomp(my $answer = <STDIN>);
+		if ($answer eq 2) {
+			print "API Key: ";
+			chomp($answer = <STDIN>);
+			$hash->{apikey} = $answer;
+			write_file("authkey.persistent", encode_json($hash));
+			die "New key saved. Please restart the script, choosing the option to use a previously saved key.\n";
+		}
+		elsif ($answer eq 1) {
+			print "Using old key...\n";
+			$answer = decode_json(read_file("authkey.persistent"))->{apikey};
+			# begin
+			print "What's the playlist id?\nWhen viewing a playlist in youtube, the URL will look something like this:\n\thttps://www.youtube.com/playlist?list=PLwMEL7UNT4o9iMzrvNBXZqXbNPFfT6rVD\n\nCopy and paste everything after 'list='. That's the playlist id.\nPlaylist id:";
+			chomp(my $answer2 = <STDIN>);
+			getPlayLists($answer, $answer2, "");
+		}
+		else {
+			die "Invalid choice\n";
+		}
+	}
+}
 
 # handler to begin recursive (if necessary) fetching of playlist pages
 sub getPlayLists {
@@ -38,7 +75,22 @@ sub writePagesData {
 	my ($apikey, $playlistid, $fileName, $next, $dirname) = @_;
 	my $requestUrl = "https://www.googleapis.com/youtube/v3/playlistItems?pageToken=$next&part=snippet,contentDetails&maxResults=50&playlistId=$playlistid&key=$apikey";
 	my $response = `curl -s "$requestUrl"`;
-	write_file($dirname."/".$fileName.".json", $response); print $!;
+	#if ()
+	my $error = "";
+	$error = decode_json($response)->{error}{errors}[0]->{reason} if exists (decode_json($response)->{error}{errors}[0]->{reason});
+	if ($error =~ /^keyInvalid$/) {
+		die "It appears your API key is invalid. Please make sure to follow Google's steps to create a valid key.\n";
+	}
+	elsif ($error =~ /^playlistNotFound$/) {
+		die "It appears you entered an invalid 'playlist id'. All usermade playlists start with the first two characters 'PL'. If yours doesn't, you may be looking at the wrong id. (Or it's not a usermade list)\n";
+	}
+	elsif ($error =~ /^$/) {
+		# no error occured ( i think )
+	}
+	else {
+		die "An unhandlable error occured: '" . $error . "'\nPlease report it to me :)\n";
+	}
+	write_file($dirname . "/" . $fileName . ".json", $response); print $!;
 	$response = decode_json($response);
 	# reset, and get next page keycode
 	$next = "";
@@ -49,7 +101,7 @@ sub writePagesData {
 		parsePagesInDir($dirname, getAllFilesInDir($dirname));
 	}
 	else {
-		print "Recursively going to next page. (".$next.")\n";
+		print "Recursively going to next page. (" . $next . ")\n";
 		writePagesData($apikey, $playlistid, $next, $next, $dirname);
 	}
 }
@@ -59,9 +111,9 @@ sub parsePagesInDir {
 	# holds video titles, so we can cross reference for repeats
 	my @allTitles;
 	# create file that'll hold each song title. delimited with new line
-	write_file($dirname."/SongTitles.txt", "");
+	write_file($dirname . "/SongTitles.txt", "");
 	# json formatted file to be proper :)
-	write_file($dirname."/SongTitles.json", "{\"titles\":[]}");
+	write_file($dirname . "/SongTitles.json", "{\"titles\":[]}");
 	my $jsonData; # will contain each files json temporarily
 	#parse it through
 	foreach my $file (@files) {
@@ -72,7 +124,7 @@ sub parsePagesInDir {
 		}
 		else {
 			print "Reading next file: " . $file . "\n";
-			($jsonData = read_file($dirname."/".$file)) =~ s/\n//g;
+			($jsonData = read_file($dirname . "/" . $file)) =~ s/\n//g;
 			$jsonData = decode_json($jsonData);
 			my @items = @{$jsonData->{items}};
 			my $x = 0;
@@ -81,7 +133,7 @@ sub parsePagesInDir {
 
 				# find duplicates
 				if ($item ~~ @allTitles) {
-					print "Skipping found duplicate:\n\t'".$item . "'\n";
+					print "Skipping found duplicate:\n\t'" . $item . "'\n";
 				}
 				elsif ($item =~ /^Deleted video$/) {
 					print "Found deleted video. Skipping it.\n";
@@ -94,10 +146,10 @@ sub parsePagesInDir {
 		}
 	}
 	my $flattenedContext = join("\n", @allTitles);
-	write_file_utf8($dirname."/SongTitles.txt", $flattenedContext);
-	print scalar(@allTitles) . " titles saved!\n";
+	write_file_utf8($dirname . "/SongTitles.txt", $flattenedContext);
+	print scalar(@allTitles) . " titles saved!\nTitles have been saved to file: $dirname/SongTitles.txt\n";
 	my $scalarHash = encode_json(\@allTitles);
-	my $readHash = decode_json(read_file($dirname."/SongTitles.json"));
+	my $readHash = decode_json(read_file($dirname . "/SongTitles.json"));
 	$readHash->{titles} = $scalarHash;
 	write_file_utf8($dirname."/SongTitles.json", encode_json($readHash));
 }
@@ -149,7 +201,7 @@ sub getAllFilesInDir {
 sub deleteFileNamesFromArray {
 	my ($directory, @fileNames) = @_;
 	foreach my $fileName (@fileNames) {
-		unlink $directory."/".$fileName;
+		unlink $directory . "/" . $fileName;
 		print "\t $fileName was deleted...\n";
 	}
 }
