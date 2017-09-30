@@ -44,7 +44,15 @@ sub beginSequence {
 			# begin
 			print "What's the playlist id?\nWhen viewing a playlist in youtube, the URL will look something like this:\n\thttps://www.youtube.com/playlist?list=PLwMEL7UNT4o9iMzrvNBXZqXbNPFfT6rVD\n\nCopy and paste everything after 'list='. That's the playlist id.\nPlaylist id:";
 			chomp(my $answer2 = <STDIN>);
-			getPlayLists($answer, $answer2, "");
+			print "Want a list of:\n\t1) The video titles\n\t2) The video IDs\n\t3) The video URLs\n:";
+			chomp(my $answer3 = <STDIN>);
+			if($answer3 =~ /^(1|2|3)$/) {
+				#ok
+			}
+			else {
+				die "Invalid choice\n";
+			}
+			getPlayLists($answer, $answer2, "-", $answer3);
 		}
 		else {
 			die "Invalid choice\n";
@@ -54,28 +62,27 @@ sub beginSequence {
 
 # handler to begin recursive (if necessary) fetching of playlist pages
 sub getPlayLists {
-	my ($apikey, $playlistid, $nextpagetoken) = @_;
+	my ($apikey, $playlistid, $nextpagetoken, $handle) = @_;
 	my $fileName;
-	if ($nextpagetoken =~ /^$/) {
+	if ($nextpagetoken =~ /^(-)$/) {
 		$fileName = "firstOne";
 	}
 	else {
 		$fileName = $nextpagetoken;
 	}
-
 	# handle dir deletion creation
 	handleDirMakeDelete($playlistid, $fileName);
 
 	#write the page data.
-	writePagesData($apikey, $playlistid, $fileName, "", $playlistid);
+	writePagesData($apikey, $playlistid, $fileName, "", $playlistid, $handle);
 }
 # handler to write the json data to files so we can later parse through them all.
 # technically we could just get-> then parse. but we're saving the pages incase we want something else later...? song description etc.? idk.
 sub writePagesData {
-	my ($apikey, $playlistid, $fileName, $next, $dirname) = @_;
+	my ($apikey, $playlistid, $fileName, $next, $dirname, $handle) = @_;
 	my $requestUrl = "https://www.googleapis.com/youtube/v3/playlistItems?pageToken=$next&part=snippet,contentDetails&maxResults=50&playlistId=$playlistid&key=$apikey";
 	my $response = `curl -s "$requestUrl"`;
-	#if ()
+
 	my $error = "";
 	$error = decode_json($response)->{error}{errors}[0]->{reason} if exists (decode_json($response)->{error}{errors}[0]->{reason});
 	if ($error =~ /^keyInvalid$/) {
@@ -97,23 +104,23 @@ sub writePagesData {
 	$next = $response->{nextPageToken} if exists $response->{nextPageToken};
 	if ($next =~ /^$/) {
 		# do nothing
-		print "Done. No more pages in playlist.\nProceeding with parsing through pages...\n";
-		parsePagesInDir($dirname, getAllFilesInDir($dirname));
+		print "Done. No more pages in playlist.\nProceeding with parsing through pages...\nprint $handle";
+		parsePagesInDir($dirname, $handle, getAllFilesInDir($dirname));
 	}
 	else {
 		print "Recursively going to next page. (" . $next . ")\n";
-		writePagesData($apikey, $playlistid, $next, $next, $dirname);
+		writePagesData($apikey, $playlistid, $next, $next, $dirname, $handle);
 	}
 }
 
 sub parsePagesInDir {
-	my ($dirname, @files) = @_;
+	my ($dirname, $handle, @files) = @_;
 	# holds video titles, so we can cross reference for repeats
 	my @allTitles;
 	# create file that'll hold each song title. delimited with new line
-	write_file($dirname . "/SongTitles.txt", "");
+	write_file($dirname . "/VideoData.txt", "");
 	# json formatted file to be proper :)
-	write_file($dirname . "/SongTitles.json", "{\"titles\":[]}");
+	write_file($dirname . "/VideoData.json", "{\"titles\":[]}");
 	my $jsonData; # will contain each files json temporarily
 	#parse it through
 	foreach my $file (@files) {
@@ -129,7 +136,28 @@ sub parsePagesInDir {
 			my @items = @{$jsonData->{items}};
 			my $x = 0;
 			foreach my $item (@items) {
-				$item = $item->{snippet}{title};
+				if ($handle eq 1) {
+					$item = $item->{snippet}{title};
+				}
+				elsif ($handle eq 2) {
+					if ($item->{snippet}{title} =~ /^Deleted video$/) {
+						$item = "Deleted video";
+					}
+					else {
+						$item = $item->{snippet}{resourceId}{videoId};
+					}
+				}
+				elsif ($handle eq 3) {
+					if ($item->{snippet}{title} =~ /^Deleted video$/) {
+						$item = "Deleted video";
+					}
+					else {
+						$item = "https://www.youtube.com/watch?v=".$item->{snippet}{resourceId}{videoId};
+					}
+				}
+				else {
+					die "Invalid choice? You shouldn't be able to see this error";
+				}
 
 				# find duplicates
 				if ($item ~~ @allTitles) {
@@ -146,12 +174,12 @@ sub parsePagesInDir {
 		}
 	}
 	my $flattenedContext = join("\n", @allTitles);
-	write_file_utf8($dirname . "/SongTitles.txt", $flattenedContext);
-	print scalar(@allTitles) . " titles saved!\nTitles have been saved to file: $dirname/SongTitles.txt\n";
+	write_file_utf8($dirname . "/VideoData.txt", $flattenedContext);
+	print scalar(@allTitles) . " saved!\nInfo has been saved to file: $dirname/VideoData.txt\n";
 	my $scalarHash = encode_json(\@allTitles);
-	my $readHash = decode_json(read_file($dirname . "/SongTitles.json"));
+	my $readHash = decode_json(read_file($dirname . "/VideoData.json"));
 	$readHash->{titles} = $scalarHash;
-	write_file_utf8($dirname."/SongTitles.json", encode_json($readHash));
+	write_file_utf8($dirname."/VideoData.json", encode_json($readHash));
 }
 
 sub write_file_utf8 {
