@@ -6,7 +6,9 @@ use strict;
 use JSON;
 use File::Slurp;
 
-beginSequence();
+BEGIN {
+	beginSequence();
+}
 
 sub beginSequence {
 	my $answer;
