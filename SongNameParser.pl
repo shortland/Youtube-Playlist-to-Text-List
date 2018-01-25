@@ -6,10 +6,6 @@ use strict;
 use JSON;
 use File::Slurp;
 
-BEGIN {
-	beginSequence();
-}
-
 sub beginSequence {
 	my $answer;
 	my $hash = decode_json(read_file("authkey.persistent"));
@@ -234,4 +230,8 @@ sub deleteFileNamesFromArray {
 		unlink $directory . "/" . $fileName;
 		print "\t $fileName was deleted...\n";
 	}
+}
+
+BEGIN {
+	beginSequence();
 }
